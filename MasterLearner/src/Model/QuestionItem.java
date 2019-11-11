@@ -3,6 +3,7 @@ package Model;
 import java.util.ArrayList;
 
 //Test
+// Das hier ist noch eine Änderung
 public class QuestionItem {
 	private String mstrQuestion;
 	public String getQuestion() { return mstrQuestion; }
